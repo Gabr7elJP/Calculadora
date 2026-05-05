@@ -24,8 +24,7 @@ Com a evolução do exercício, ele foi expandido para lidar com outros tipos de
 
 - Lançamento para cima ou para baixo
 - Análise de pontos intermediários da trajetória
-- Cálculo de altura máxima atingida
-- 
+- Cálculo de altura máxima atingida 
 ---
 
 ## 🛠️ Tecnologias utilizadas
